@@ -1,3 +1,9 @@
-# My Awesome Book
+# 365写作计划
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+#### 100 本书；
+#### 100 张思维导图；
+#### 100 篇读后感；
+#### 52 篇周记；
+#### 12 篇月记；
+#### 1 篇年度调查报告；
+
